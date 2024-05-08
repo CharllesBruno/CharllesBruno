@@ -1,6 +1,6 @@
 ### Hi there :smile:
 
-Eu sou o Charlles Bruno, sou um progamador Front End em crescimento.
+Eu sou o Charlles Bruno, sou um progamador Front End em desenvolvimento.
 <br>
 <br>
 
