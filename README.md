@@ -14,9 +14,11 @@ Eu sou o Charlles Bruno, sou um progamador Front End em desenvolvimento.
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=charllesbruno&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=charllesbruno&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=charllesbruno&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <a href="https://github.com/ubiratan-motta">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ubiratan-motta&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubiratan-motta&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 ### Connect with me:
 <a href="https://www.instagram.com/charlles.santana.94/?next=%2F">
