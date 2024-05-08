@@ -1,6 +1,6 @@
 ### Hi there :sunglasses:
 
-Eu sou o Charlles Bruno, sou um progamador Front End, atualmente estou criando projetos com:
+Eu sou o Charlles Bruno, sou um progamador Front End.
 <br>
 <br>
 
