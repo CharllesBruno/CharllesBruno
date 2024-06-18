@@ -20,8 +20,14 @@ Eu sou o Charlles Bruno, sou um progamador Front End em desenvolvimento.
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubiratan-motta&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-### Connect with me:
-<a href="https://www.instagram.com/charlles.santana.94/?next=%2F">
-<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-<a/>
+   </div >
+    
+  
+  <h1 align="left">Redes Sociais</h1>
+
+  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlles-bruno-santana/)
+  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561999946232)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/charlles.santana.94/)
+   
+</div>
 
